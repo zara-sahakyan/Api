@@ -295,23 +295,6 @@ option {
   padding-bottom: 100%;
 }
 
-.shareButtons {
-  width: 100%;
-  max-width: 20rem;
-  display: flex;
-  margin-bottom: 3rem;
-  justify-content: center;
-}
-
-
-.twitter-share-button {
-  margin-right: 1rem;
-}
-
-.fb-share-button {
-  margin-left: 1rem;
-}
-
 .endPage {
   justify-content: flex-start;
   max-height: 420px;
