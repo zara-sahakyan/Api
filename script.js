@@ -32,7 +32,7 @@ let currentQuestion = {};
 
 
 function urlSelection() {
-	var x = selectoptions.value;
+	let x = selectoptions.value;
 	if (x === "easy") {
 		url =
 			"https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple";
